@@ -1,4 +1,4 @@
-# Code Orb Lab: a retro handheld-RPG portfolio
+# Poke Portfolio Lab: a retro handheld-RPG portfolio
 
 Open `index.html` in a browser. There's no build step and nothing to install.
 
