@@ -173,7 +173,7 @@ window.PORTFOLIO = {
       ["That's some serious training! {NAME} levels up every day."]
     ],
     allSeen: [
-      "Wow! You've opened every single orb. You must really like {NAME}'s work!",
+      "Wow! You've opened every Pokeball. You must really like {NAME}'s work!",
       "If you'd like to team up with {NAME}, I know exactly how to reach them."
     ],
     offerContact: "Want {NAME}'s contact info?",
